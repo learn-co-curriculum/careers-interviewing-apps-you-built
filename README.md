@@ -87,7 +87,7 @@ You now have a framework for talking about your app(s) during interviews. If you
 
     Idea -> Design -> Implement -> Test -> Iterate
 
-## Action Items:
+## Action ITems and Assignment:
 
 Take some time to reflect on the last application you built. Ask yourself the questions posed earlier:
 
