@@ -87,7 +87,7 @@ You now have a framework for talking about your app(s) during interviews. If you
 
     Idea -> Design -> Implement -> Test -> Iterate
 
-## Action ITems and Assignment:
+## Assignment- Apps You've Built
 
 Take some time to reflect on the last application you built. Ask yourself the questions posed earlier:
 
@@ -97,12 +97,27 @@ Take some time to reflect on the last application you built. Ask yourself the qu
 4. What challenges did you overcome while building it?
 5. Are there any plans for the future of the app (what would you add to it next)?
 
-If you worked on a team project, interview your partners for the answers to number 3. Listen to how they describe the app and work together to sharpen your responses.
+If you worked on a team project, interview your partners for the answers to Question 3. Listen to how they describe the app and work together to sharpen your responses.
 
 If you worked alone, ask a friend or family member to interview you with those five questions and record yourself. Then review the video, critique yourself, find ways to improve, and do it again. 
 
-You’ll be a master in no time! 
+Create a Google doc. Title it ""Your Name" + Apps You've Built."
 
+Write a paragraph that incorporates the above information and will form the basis of your answer when you're asked to talk about apps you've built in interviews. 
 
+**Submit** your assignment to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+
+In this case, your email subject line will be “”Your Name” + Apps You've Built.”
+
+In the body of your email again include:
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url to this specific Google document
+
+Update your Careers Prep Tracker sheet.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-interviewing'>Careers Interviewing</a> on Learn.co and start learning to code for free.</p>
