@@ -105,7 +105,9 @@ Create a Google doc. Title it ""Your Name" + Apps You've Built."
 
 Write a paragraph that incorporates the above information and will form the basis of your answer when you're asked to talk about apps you've built in interviews. 
 
-**Submit** your assignment to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
+
+Remember in the subject line to include your name and this specific assignment.
 
 In this case, your email subject line will be “”Your Name” + Apps You've Built.”
 
