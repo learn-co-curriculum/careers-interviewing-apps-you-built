@@ -87,7 +87,7 @@ You now have a framework for talking about your app(s) during interviews. If you
 
     Idea -> Design -> Implement -> Test -> Iterate
 
-## If You Have a Premium Account: Assignment- Apps You've Built
+## Next Steps
 
 Take some time to reflect on the last application you built. Ask yourself the questions posed earlier:
 
@@ -97,29 +97,7 @@ Take some time to reflect on the last application you built. Ask yourself the qu
 4. What challenges did you overcome while building it?
 5. Are there any plans for the future of the app (what would you add to it next)?
 
-If you worked on a team project, interview your partners for the answers to Question 3. Listen to how they describe the app and work together to sharpen your responses.
+If you worked on a team project, interview your partners for the answers to Question 3. Listen to how they describe the app and work together to sharpen your responses. Make sure to go over these responses with your coach.
 
-If you worked alone, ask a friend or family member to interview you with those five questions and record yourself. Then review the video, critique yourself, find ways to improve, and do it again. 
-
-Create a Google doc. Title it ""Your Name" + Apps You've Built."
-
-Write a paragraph that incorporates the above information and will form the basis of your answer when you're asked to talk about apps you've built in interviews. 
-
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
-
-Remember in the subject line to include your name and this specific assignment.
-
-In this case, your email subject line will be “”Your Name” + Apps You've Built.”
-
-In the body of your email again include:
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url to this specific Google document
-
-Update your Careers Prep Tracker sheet.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-interviewing'>Careers Interviewing</a> on Learn.co and start learning to code for free.</p>
