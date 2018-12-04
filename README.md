@@ -33,9 +33,9 @@ So we’ve  addressed the *why*. This section addresses the *how*. As in, how di
 - Did you use Bootstrap for the front end? jQuery for a dynamic UI? Maybe Angular because you wanted a single page app?
 - Did you use Node/Express or Rack/Rails as your framework?
 - What database did you use? Postgres, Mongo, SQLite?
-- How did deploy the app? Heroku? Meteor?
+- How did you deploy the app? Heroku? Meteor?
 
-Remember the `Technical Experience/Applications Built` portion of your resume? You’ll want to summarize those bullet points with a high-level outline of the project without getting too fine-grain during this part of the conversation. That way, you leave room for questions when you ultimately dive deeper into all of your app’s features.
+Remember the Technical Experience (Projects) portion of your resume? You’ll want to summarize those bullet points with a high-level outline of the project without getting too fine-grain during this part of the conversation. That way, you leave room for questions when you ultimately dive deeper into all of your app’s features.
 
 ## Features 
 
@@ -98,6 +98,7 @@ Take some time to reflect on the last application you built. Ask yourself the qu
 5. Are there any plans for the future of the app (what would you add to it next)?
 
 If you worked on a team project, interview your partners for the answers to Question 3. Listen to how they describe the app and work together to sharpen your responses. Make sure to go over these responses with your coach.
+
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-interviewing'>Careers Interviewing</a> on Learn.co and start learning to code for free.</p>
