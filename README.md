@@ -35,7 +35,7 @@ So we’ve  addressed the *why*. This section addresses the *how*. As in, how di
 - What database did you use? Postgres, Mongo, SQLite?
 - How did you deploy the app? Heroku? Meteor?
 
-Remember the Technical Experience (Projects) portion of your resume? You’ll want to summarize those bullet points with a high-level outline of the project without getting too fine-grain during this part of the conversation. That way, you leave room for questions when you ultimately dive deeper into all of your app’s features.
+Remember the Technical Experience (Projects) portion of your resume? You’ll want to summarize those bullet points with a high-level outline of the project without getting too fine-grained during this part of the conversation. That way, you leave room for questions when you ultimately dive deeper into all of your app’s features.
 
 ## Features 
 
